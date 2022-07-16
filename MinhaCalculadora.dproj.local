@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/05/14 02:40:28.000.788,=C:\Users\eurismar.pires\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2021/11/23 15:10:17.000.114,=C:\Users\eurismar.pires\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2021/11/23 15:23:43.000.270,=C:\Users\eurismar.pires\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/01/04 15:16:34.000.797,=C:\Users\eurismar.pires\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2022/01/25 16:32:49.000.335,=C:\Users\eurismar.pires\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2022/05/04 15:02:17.000.893,=C:\Users\eurismar.pires\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2022/07/16 17:35:34.335,=C:\Users\eurismar.pires\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2022/07/16 17:57:47.308,C:\Temp\MinhaCalculadora\UnCalculadora.dfm=C:\Users\eurismar.pires\Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2022/07/16 17:57:47.308,C:\Temp\MinhaCalculadora\UnCalculadora.pas=C:\Users\eurismar.pires\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2022/07/16 17:57:59.939,C:\Temp\MinhaCalculadora\MinhaCalculadora.dproj=C:\Users\eurismar.pires\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
