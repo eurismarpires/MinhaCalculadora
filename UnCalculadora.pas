@@ -15,7 +15,9 @@ type
     edtResultado: TEdit;
     Label2: TLabel;
     Label3: TLabel;
+    btSubtrair: TButton;
     procedure btSomarClick(Sender: TObject);
+    procedure btSubtrairClick(Sender: TObject);
   private
     { Private declarations }
   public
@@ -49,6 +51,30 @@ begin
   num1 := StrToFloat(EdtNumero1.Text);
   num2 := StrToFloat(EdtNumero2.Text);
   resultado := num1 + num2;
+  edtResultado.Text := FloatToStr(resultado);
+
+end;
+
+procedure TForm4.btSubtrairClick(Sender: TObject);
+var
+  num1, num2: double;
+  resultado: double;
+begin
+  if EdtNumero1.Text = '' then
+  begin
+    ShowMessage('Digite o primeiro número');
+    EdtNumero1.SetFocus;
+    abort;
+  end;
+  if EdtNumero2.Text = '' then
+  begin
+    ShowMessage('Digite o segundo número');
+    EdtNumero2.SetFocus;
+    abort;
+  end;
+  num1 := StrToFloat(EdtNumero1.Text);
+  num2 := StrToFloat(EdtNumero2.Text);
+  resultado := num1 - num2;
   edtResultado.Text := FloatToStr(resultado);
 
 end;

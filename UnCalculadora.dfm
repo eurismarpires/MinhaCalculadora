@@ -64,4 +64,13 @@ object Form4: TForm4
     Height = 21
     TabOrder = 3
   end
+  object btSubtrair: TButton
+    Left = 48
+    Top = 71
+    Width = 75
+    Height = 25
+    Caption = 'Subtrair'
+    TabOrder = 4
+    OnClick = btSubtrairClick
+  end
 end
